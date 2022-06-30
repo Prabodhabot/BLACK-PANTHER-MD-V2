@@ -39,34 +39,33 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
+global.owner = ['PRABODHA PRASHAD  MALINGA🔥🌹⃝⃘̉̉̉̉̉̉🧚']
 
-global.premium = ['🖤Black Panther Bot🖤']
+global.premium = ['🖤PRABODHA PRASHAD  MALINGA BOT🔥🖤']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '94704209801'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = 'PRABODHA PRASHAD  MALINGA🔥🌹⃝⃘̉̉̉̉̉̉🧚'
 
-global.botname = '🖤Black Panther Bot🖤'
+global.botname = '🖤PRABODHA PRASHAD  MALINGA BOT🔥🖤'
 
-global.footer = '©Black panther🖤.'
+global.footer = '©PRABODHA PRASHAD  MALINGA🔥🖤.'
 
-global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.ig = 'https://chat.whatsapp.com/Jow3H9DlzNw4XjLRCfmxsy'
 
 global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 𝙼𝙳  °ೋ•❖═══╝*'
 
-global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.sc = 'https://chat.whatsapp.com/Jow3H9DlzNw4XjLRCfmxsy'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://chat.whatsapp.com/Jow3H9DlzNw4XjLRCfmxsy'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = '🖤PRABODHA PRASHAD  MALINGA BOT🔥🖤'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = '🖤PRABODHA PRASHAD  MALINGA🔥  BOT🖤'
 
 global.sessionName = 'session'
 
-global.prefa = ['','!','.','❄','🖤','☃']
-
+global.prefa = ['','!','.','❄','🖤
 global.sp = '◈'
 
 global.mess = {
